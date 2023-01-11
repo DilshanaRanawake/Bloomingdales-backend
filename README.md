@@ -5,3 +5,7 @@
 2. User-
     - Username - John
     - Password  - John@123
+
+
+sql script -> src/main/java/com/bloomingdale/sql_script/db_bloomingdale.sql
+
