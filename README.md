@@ -9,3 +9,4 @@
 
 sql script -> src/main/java/com/bloomingdale/sql_script/db_bloomingdale.sql
 
+frontend url -> https://github.com/DilshanaRanawake/Bloomingdales-frontend
